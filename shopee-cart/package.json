@@ -1,0 +1,13 @@
+{
+  "name": "shopee-cart",
+  "version": "1.0.0",
+  "description": "Um simples projeto que utiliza Node.js para a lógica de gerenciamento de um carrinho de compras inspirado na Shopee. Bootcamp da DIO \"Mobile Developer - meutudo\".",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
