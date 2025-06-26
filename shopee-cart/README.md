@@ -10,3 +10,5 @@ Link do repo original: https://github.com/digitalinnovationone/formacao-nodejs/b
 3. Função removeItem recebe apenas nome do item ao em vez de toda a estrutura
 4. Encadeamento dos ifs na função removeItem
 5. Reaproveitamento de cartService para manusear a wish list
+
+![image](https://github.com/user-attachments/assets/d5469fb9-df37-4a62-a4ff-976445f8cd78)
