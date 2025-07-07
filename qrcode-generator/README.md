@@ -5,7 +5,7 @@ Link do repositório original: https://github.com/digitalinnovationone/formacao-
 ## Alterações realizadas
 
 1. "main" passa a ser um serviço para exibir o menu principal;
-2. Os procedimentos antes feitos em index.js estão em services/main
+2. Os procedimentos antes feitos em index.js estão em services/main;
 3. Adição da funcionalidade de determinar a taxa de entrega para cada um de 5 países distintos;
 4. Adição da funcionalidade de validar senha;
 5. Verificação de URL válida ao gerar QRCode.
