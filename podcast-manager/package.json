@@ -1,0 +1,16 @@
+{
+  "name": "podcast-manager",
+  "version": "1.0.0",
+  "description": "Link do repositório original https://github.com/felipeAguiarCode/node-ts-webapi-without-frameworks-podcast-menager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "concurrently \"npm run dev --prefix front-end\" \"npm run start:dev --prefix back-end\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^9.2.1"
+  }
+}
