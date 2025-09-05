@@ -16,7 +16,7 @@ Além disso, houve a adição de um campo "coverId" no modelo do podcast, para p
 
 ## Como executar
 
-Ter Node.js versão >= v21.1.0 instalado na máquina
+Ter Node.js versão >= v21.1.0 e npm >= 10.4.0 instalados na máquina
 
 Executar o comando ```npm install``` no diretório raiz ./ e no ./front-end.
 O pacote concurrently é utilizado para executar os dois projetos simultaneamente. Executar  ```npm run start:dev ``` para rodar o projeto.
