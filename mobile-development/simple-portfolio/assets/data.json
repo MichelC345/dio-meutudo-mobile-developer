@@ -1,6 +1,10 @@
 {
   "name": "Michel Caesar",
   "picture": "https://avatars.githubusercontent.com/u/79313637?v=4",
+  "location": "Cascavel/PR - Brazil",
+  "joined": "Mar 2020",
+  "username": "MichelC345",
+  "bio": "Programador Full-Stack",
   "contact": {
     "linkedin": "https://linkedin.com/in/michel-caesar-446998288",
     "github": "https://github.com/MichelC345",
@@ -11,6 +15,7 @@
     "CSS",
     "React",
     "Java",
-    "Node.js"
+    "Node.js",
+    "Docker"
   ]
 }
