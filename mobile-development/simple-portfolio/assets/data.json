@@ -1,0 +1,16 @@
+{
+  "name": "Michel Caesar",
+  "picture": "https://avatars.githubusercontent.com/u/79313637?v=4",
+  "contact": {
+    "linkedin": "https://linkedin.com/in/michel-caesar-446998288",
+    "github": "https://github.com/MichelC345",
+    "email": "michel.caesarr@gmail.com"
+  },
+  "skills": [
+    "HTML",
+    "CSS",
+    "React",
+    "Java",
+    "Node.js"
+  ]
+}
